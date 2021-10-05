@@ -18,7 +18,12 @@ body{
 #gridContainer{
     display: flex;
     flex-direction: column;
-    background-color: yellow;
+    background-color: whitesmoke;
     height: 550px;
     width: 550px;
+}
+
+.title{
+    color: #8f4d44;
+    font-size:30px;
 }
